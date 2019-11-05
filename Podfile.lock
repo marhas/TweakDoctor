@@ -1,0 +1,23 @@
+PODS:
+  - Mixpanel-swift (2.6.7):
+    - Mixpanel-swift/Complete (= 2.6.7)
+  - Mixpanel-swift/Complete (2.6.7)
+
+DEPENDENCIES:
+  - Mixpanel-swift (from `https://github.com/marhas/mixpanel-swift.git`)
+
+EXTERNAL SOURCES:
+  Mixpanel-swift:
+    :git: https://github.com/marhas/mixpanel-swift.git
+
+CHECKOUT OPTIONS:
+  Mixpanel-swift:
+    :commit: 90eedade283bb0182736bd3358b581fc74143f46
+    :git: https://github.com/marhas/mixpanel-swift.git
+
+SPEC CHECKSUMS:
+  Mixpanel-swift: 9118aa461d7ad4bb66718b0d4d826e6487bb0105
+
+PODFILE CHECKSUM: b51969a0b9273f99854d768ae7a452a98ca9cc86
+
+COCOAPODS: 1.8.4

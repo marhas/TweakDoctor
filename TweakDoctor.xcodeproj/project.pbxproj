@@ -1,0 +1,452 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 51;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5F3D847F23856CF200580D36 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 5F3D847E23856CF200580D36 /* Settings.bundle */; };
+		5F3D8481238573EE00580D36 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F3D8480238573EE00580D36 /* SceneDelegate.swift */; };
+		5FC4BD1A23717A550086B9F3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FC4BD1923717A550086B9F3 /* AppDelegate.swift */; };
+		5FC4BD2123717A550086B9F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FC4BD1F23717A550086B9F3 /* Main.storyboard */; };
+		5FC4BD2323717A590086B9F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FC4BD2223717A590086B9F3 /* Assets.xcassets */; };
+		5FC4BD2623717A590086B9F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FC4BD2423717A590086B9F3 /* LaunchScreen.storyboard */; };
+		5FC4BD3123717E290086B9F3 /* TweaksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FC4BD2F23717E290086B9F3 /* TweaksViewController.swift */; };
+		CE398713319073706BF43232 /* Pods_TweakDoctor.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E63625216E4DBDE8FA60FF4 /* Pods_TweakDoctor.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		5F3D848723857D7200580D36 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		5F3D847E23856CF200580D36 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		5F3D8480238573EE00580D36 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		5FC4BD1623717A550086B9F3 /* TweakDoctor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TweakDoctor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5FC4BD1923717A550086B9F3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5FC4BD2023717A550086B9F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5FC4BD2223717A590086B9F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5FC4BD2523717A590086B9F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5FC4BD2723717A590086B9F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5FC4BD2D23717B2C0086B9F3 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5FC4BD2E23717C980086B9F3 /* TweakDoctor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TweakDoctor.entitlements; sourceTree = "<group>"; };
+		5FC4BD2F23717E290086B9F3 /* TweaksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweaksViewController.swift; sourceTree = "<group>"; };
+		8E63625216E4DBDE8FA60FF4 /* Pods_TweakDoctor.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TweakDoctor.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C54416F84B75CBCB93D2B73 /* Pods-TweakDoctor.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TweakDoctor.release.xcconfig"; path = "Target Support Files/Pods-TweakDoctor/Pods-TweakDoctor.release.xcconfig"; sourceTree = "<group>"; };
+		FF4CF37C4D28253F67D13ECF /* Pods-TweakDoctor.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TweakDoctor.debug.xcconfig"; path = "Target Support Files/Pods-TweakDoctor/Pods-TweakDoctor.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5FC4BD1323717A550086B9F3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CE398713319073706BF43232 /* Pods_TweakDoctor.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1AD320A345348CC3E22CF291 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FF4CF37C4D28253F67D13ECF /* Pods-TweakDoctor.debug.xcconfig */,
+				9C54416F84B75CBCB93D2B73 /* Pods-TweakDoctor.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		5FC4BD0D23717A550086B9F3 = {
+			isa = PBXGroup;
+			children = (
+				5FC4BD1823717A550086B9F3 /* TweakDoctor */,
+				5FC4BD1723717A550086B9F3 /* Products */,
+				5FC4BD382371C8A80086B9F3 /* Frameworks */,
+				1AD320A345348CC3E22CF291 /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		5FC4BD1723717A550086B9F3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FC4BD1623717A550086B9F3 /* TweakDoctor.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5FC4BD1823717A550086B9F3 /* TweakDoctor */ = {
+			isa = PBXGroup;
+			children = (
+				5F3D8480238573EE00580D36 /* SceneDelegate.swift */,
+				5FC4BD2E23717C980086B9F3 /* TweakDoctor.entitlements */,
+				5FC4BD2D23717B2C0086B9F3 /* Podfile */,
+				5FC4BD2223717A590086B9F3 /* Assets.xcassets */,
+				5FC4BD1923717A550086B9F3 /* AppDelegate.swift */,
+				5FC4BD1F23717A550086B9F3 /* Main.storyboard */,
+				5FC4BD2423717A590086B9F3 /* LaunchScreen.storyboard */,
+				5FC4BD2723717A590086B9F3 /* Info.plist */,
+				5FC4BD2F23717E290086B9F3 /* TweaksViewController.swift */,
+				5F3D847E23856CF200580D36 /* Settings.bundle */,
+			);
+			path = TweakDoctor;
+			sourceTree = "<group>";
+		};
+		5FC4BD382371C8A80086B9F3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8E63625216E4DBDE8FA60FF4 /* Pods_TweakDoctor.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5FC4BD1523717A550086B9F3 /* TweakDoctor */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5FC4BD2A23717A590086B9F3 /* Build configuration list for PBXNativeTarget "TweakDoctor" */;
+			buildPhases = (
+				1DFA4F380CDF5E495846F200 /* [CP] Check Pods Manifest.lock */,
+				5FC4BD1223717A550086B9F3 /* Sources */,
+				5FC4BD1323717A550086B9F3 /* Frameworks */,
+				5FC4BD1423717A550086B9F3 /* Resources */,
+				5F3D848723857D7200580D36 /* Embed Frameworks */,
+				BA0FE1F61DF7A200BCA673B2 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TweakDoctor;
+			productName = TweakDoctor;
+			productReference = 5FC4BD1623717A550086B9F3 /* TweakDoctor.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5FC4BD0E23717A550086B9F3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1120;
+				LastUpgradeCheck = 1120;
+				ORGANIZATIONNAME = EasyPark;
+				TargetAttributes = {
+					5FC4BD1523717A550086B9F3 = {
+						CreatedOnToolsVersion = 11.2;
+					};
+				};
+			};
+			buildConfigurationList = 5FC4BD1123717A550086B9F3 /* Build configuration list for PBXProject "TweakDoctor" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5FC4BD0D23717A550086B9F3;
+			productRefGroup = 5FC4BD1723717A550086B9F3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5FC4BD1523717A550086B9F3 /* TweakDoctor */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5FC4BD1423717A550086B9F3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F3D847F23856CF200580D36 /* Settings.bundle in Resources */,
+				5FC4BD2623717A590086B9F3 /* LaunchScreen.storyboard in Resources */,
+				5FC4BD2323717A590086B9F3 /* Assets.xcassets in Resources */,
+				5FC4BD2123717A550086B9F3 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1DFA4F380CDF5E495846F200 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TweakDoctor-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BA0FE1F61DF7A200BCA673B2 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TweakDoctor/Pods-TweakDoctor-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TweakDoctor/Pods-TweakDoctor-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TweakDoctor/Pods-TweakDoctor-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5FC4BD1223717A550086B9F3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5FC4BD1A23717A550086B9F3 /* AppDelegate.swift in Sources */,
+				5FC4BD3123717E290086B9F3 /* TweaksViewController.swift in Sources */,
+				5F3D8481238573EE00580D36 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5FC4BD1F23717A550086B9F3 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5FC4BD2023717A550086B9F3 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		5FC4BD2423717A590086B9F3 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5FC4BD2523717A590086B9F3 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5FC4BD2823717A590086B9F3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = "DEBUG=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_SWIFT_FLAGS = "";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5FC4BD2923717A590086B9F3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = "DEBUG=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5FC4BD2B23717A590086B9F3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FF4CF37C4D28253F67D13ECF /* Pods-TweakDoctor.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = TweakDoctor/TweakDoctor.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
+				CODE_SIGN_STYLE = Automatic;
+				DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER = YES;
+				DEVELOPMENT_TEAM = FXF3A286RW;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = TweakDoctor/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = nu.hasselaar.TweakDoctor;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5FC4BD2C23717A590086B9F3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9C54416F84B75CBCB93D2B73 /* Pods-TweakDoctor.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = TweakDoctor/TweakDoctor.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
+				CODE_SIGN_STYLE = Automatic;
+				DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER = YES;
+				DEVELOPMENT_TEAM = FXF3A286RW;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = TweakDoctor/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = nu.hasselaar.TweakDoctor;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5FC4BD1123717A550086B9F3 /* Build configuration list for PBXProject "TweakDoctor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5FC4BD2823717A590086B9F3 /* Debug */,
+				5FC4BD2923717A590086B9F3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5FC4BD2A23717A590086B9F3 /* Build configuration list for PBXNativeTarget "TweakDoctor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5FC4BD2B23717A590086B9F3 /* Debug */,
+				5FC4BD2C23717A590086B9F3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5FC4BD0E23717A550086B9F3 /* Project object */;
+}

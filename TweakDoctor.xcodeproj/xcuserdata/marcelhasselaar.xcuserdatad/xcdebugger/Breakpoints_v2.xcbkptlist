@@ -1,0 +1,2063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4B51ACA3-AB06-4DC2-9C3D-EDEFDB5E9C66"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A5F1454-17BA-4A0D-94D4-70225F0D34B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/Mixpanel/Mixpanel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2366"
+            endingLineNumber = "2366"
+            landmarkName = "-connectToABTestDesigner:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1E693E8-144C-49AB-B7FE-D2291D7539FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/Mixpanel/Mixpanel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2387"
+            endingLineNumber = "2387"
+            landmarkName = "-connectToABTestDesigner:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "691B2E0F-5A1E-42CA-838D-9C07116C2EED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/TweaksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "clearTweaks()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B63147E-2122-46D1-9576-05A58287E191"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/Mixpanel/Mixpanel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1831"
+            endingLineNumber = "1831"
+            landmarkName = "-setEnableLogging:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F8264D3-3947-4FE0-BD83-021ED2AA90AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/Mixpanel/Mixpanel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2355"
+            endingLineNumber = "2355"
+            landmarkName = "-connectToABTestDesigner:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50594967-A086-49B4-BFF9-6962A86473BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/TweaksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "clearTweaks()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43E29EE1-529A-48D0-AA86-D2D5B232445E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/Mixpanel/MPLogger.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "MPLogWarning(format)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "43E29EE1-529A-48D0-AA86-D2D5B232445E - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "43E29EE1-529A-48D0-AA86-D2D5B232445E - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "43E29EE1-529A-48D0-AA86-D2D5B232445E - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "43E29EE1-529A-48D0-AA86-D2D5B232445E - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "43E29EE1-529A-48D0-AA86-D2D5B232445E - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "43E29EE1-529A-48D0-AA86-D2D5B232445E - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "43E29EE1-529A-48D0-AA86-D2D5B232445E - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "43E29EE1-529A-48D0-AA86-D2D5B232445E - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "43E29EE1-529A-48D0-AA86-D2D5B232445E - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "43E29EE1-529A-48D0-AA86-D2D5B232445E - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "43E29EE1-529A-48D0-AA86-D2D5B232445E - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "43E29EE1-529A-48D0-AA86-D2D5B232445E - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "635">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/Mixpanel/MPLogger.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "MPLogError(format)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - c417a0fb1e405c88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__os_log_helper_16_2_1_8_32"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "849ACF0F-10F2-4763-B647-5C27ECC4D728 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "635">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "358CF634-DBB8-47D0-8F52-7DB982E1C6E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/Mixpanel/MPLogger.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "MPLogWarning(format)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "358CF634-DBB8-47D0-8F52-7DB982E1C6E7 - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "358CF634-DBB8-47D0-8F52-7DB982E1C6E7 - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "358CF634-DBB8-47D0-8F52-7DB982E1C6E7 - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "358CF634-DBB8-47D0-8F52-7DB982E1C6E7 - ae47b514ec632054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogWarning"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/Mixpanel/MPLogger.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "MPLogError(format)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D637DD2D-FA65-41D7-BBE0-C58DFF807D32 - e1c15ed682373f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogError"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/Mixpanel/MPLogger.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "MPLogInfo(format)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "7C7BBCBD-DC37-47DB-A19C-8FD6FED321EC - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "635">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A0F49E4-5350-4BBC-9068-71EE71439F4A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/Mixpanel/MPLogger.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "MPLogInfo(format)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "2A0F49E4-5350-4BBC-9068-71EE71439F4A - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "2A0F49E4-5350-4BBC-9068-71EE71439F4A - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "2A0F49E4-5350-4BBC-9068-71EE71439F4A - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "2A0F49E4-5350-4BBC-9068-71EE71439F4A - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "2A0F49E4-5350-4BBC-9068-71EE71439F4A - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "2A0F49E4-5350-4BBC-9068-71EE71439F4A - 8aba405617729a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogInfo"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "152D70BE-8B78-49E3-AE00-891E2A13866F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/Mixpanel/MPLogger.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "MPLogDebug(format)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "152D70BE-8B78-49E3-AE00-891E2A13866F - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "152D70BE-8B78-49E3-AE00-891E2A13866F - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "152D70BE-8B78-49E3-AE00-891E2A13866F - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "152D70BE-8B78-49E3-AE00-891E2A13866F - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "152D70BE-8B78-49E3-AE00-891E2A13866F - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "152D70BE-8B78-49E3-AE00-891E2A13866F - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "152D70BE-8B78-49E3-AE00-891E2A13866F - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "152D70BE-8B78-49E3-AE00-891E2A13866F - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "152D70BE-8B78-49E3-AE00-891E2A13866F - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "635">
+               </Location>
+               <Location
+                  uuid = "152D70BE-8B78-49E3-AE00-891E2A13866F - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "459">
+               </Location>
+               <Location
+                  uuid = "152D70BE-8B78-49E3-AE00-891E2A13866F - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "152D70BE-8B78-49E3-AE00-891E2A13866F - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "635">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9814BE05-C5BE-4C12-B299-94F9BB7D21E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TweakDoctor/Mixpanel/MPLogger.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "MPLogDebug(format)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "9814BE05-C5BE-4C12-B299-94F9BB7D21E1 - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "9814BE05-C5BE-4C12-B299-94F9BB7D21E1 - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "9814BE05-C5BE-4C12-B299-94F9BB7D21E1 - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "9814BE05-C5BE-4C12-B299-94F9BB7D21E1 - e1c1629c98e5ec45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MPLogDebug"
+                  moduleName = "TweakDoctor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcelhasselaar/src/easypark/TweakDoctor/TweakDoctor/Mixpanel/MPLogger.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

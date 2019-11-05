@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15510"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Tweaks View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="TweaksViewController" customModule="TweakDoctor" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="2gF-fX-1Oe">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tweak Doctor" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WXy-nI-skg">
+                                <rect key="frame" x="154" y="64" width="106" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Add tweaks to Mixpanel" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="A1T-Jy-CKS">
+                                <rect key="frame" x="20" y="176" width="182" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="tweak name" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="633-RL-pXc" userLabel="Tweak name text field">
+                                <rect key="frame" x="20" y="233" width="374" height="34"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="nF9-Ko-djJ">
+                                <rect key="frame" x="151.5" y="115" width="111" height="32"/>
+                                <segments>
+                                    <segment title="Stage"/>
+                                    <segment title="Prod"/>
+                                </segments>
+                                <connections>
+                                    <action selector="environmentChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="5Hh-ff-t27"/>
+                                </connections>
+                            </segmentedControl>
+                            <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="ymo-fe-F7b">
+                                <rect key="frame" x="20" y="299" width="374" height="32"/>
+                                <segments>
+                                    <segment title="String"/>
+                                    <segment title="Int"/>
+                                    <segment title="Double"/>
+                                    <segment title="Bool"/>
+                                </segments>
+                            </segmentedControl>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="default value" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ALp-dn-HKw" userLabel="Tweak name text field">
+                                <rect key="frame" x="20" y="363" width="374" height="34"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="req-Wx-bbv">
+                                <rect key="frame" x="20" y="440" width="142" height="30"/>
+                                <state key="normal" title="Connect to Mixpanel"/>
+                                <connections>
+                                    <action selector="connectToMixpanel:" destination="BYZ-38-t0r" eventType="touchUpInside" id="J5f-dH-DpX"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lMA-DY-h4e" userLabel="ConnectionStatusLabel">
+                                <rect key="frame" x="20" y="520" width="0.0" height="0.0"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="22"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="nF9-Ko-djJ" firstAttribute="centerX" secondItem="R9z-oN-v7P" secondAttribute="centerX" id="3ha-Rg-ZHd"/>
+                            <constraint firstItem="nF9-Ko-djJ" firstAttribute="top" secondItem="WXy-nI-skg" secondAttribute="bottom" constant="30" id="CXE-3V-KrN"/>
+                            <constraint firstItem="ymo-fe-F7b" firstAttribute="leading" secondItem="633-RL-pXc" secondAttribute="leading" id="GlV-W2-BOO"/>
+                            <constraint firstItem="A1T-Jy-CKS" firstAttribute="top" secondItem="nF9-Ko-djJ" secondAttribute="bottom" constant="30" id="QQa-vN-qNc"/>
+                            <constraint firstItem="WXy-nI-skg" firstAttribute="top" secondItem="R9z-oN-v7P" secondAttribute="top" constant="20" id="TMa-a3-Ssy"/>
+                            <constraint firstItem="R9z-oN-v7P" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="A1T-Jy-CKS" secondAttribute="trailing" symbolic="YES" id="UYD-1R-EoH"/>
+                            <constraint firstItem="ymo-fe-F7b" firstAttribute="trailing" secondItem="633-RL-pXc" secondAttribute="trailing" id="aIM-4m-Ikg"/>
+                            <constraint firstItem="ALp-dn-HKw" firstAttribute="trailing" secondItem="ymo-fe-F7b" secondAttribute="trailing" id="apa-S1-qxg"/>
+                            <constraint firstItem="ALp-dn-HKw" firstAttribute="leading" secondItem="ymo-fe-F7b" secondAttribute="leading" id="ciK-JZ-i8K"/>
+                            <constraint firstItem="ALp-dn-HKw" firstAttribute="top" secondItem="ymo-fe-F7b" secondAttribute="bottom" constant="33" id="eD8-wu-9Ky"/>
+                            <constraint firstItem="req-Wx-bbv" firstAttribute="leading" secondItem="ALp-dn-HKw" secondAttribute="leading" id="eHN-K2-L4m"/>
+                            <constraint firstItem="req-Wx-bbv" firstAttribute="top" secondItem="ALp-dn-HKw" secondAttribute="bottom" constant="43" id="eN2-ir-THN"/>
+                            <constraint firstItem="WXy-nI-skg" firstAttribute="centerX" secondItem="R9z-oN-v7P" secondAttribute="centerX" id="gTt-UM-hwZ"/>
+                            <constraint firstItem="ymo-fe-F7b" firstAttribute="top" secondItem="633-RL-pXc" secondAttribute="bottom" constant="32" id="gvI-eM-fy1"/>
+                            <constraint firstItem="633-RL-pXc" firstAttribute="leading" secondItem="A1T-Jy-CKS" secondAttribute="leading" id="hVu-nd-mQs"/>
+                            <constraint firstItem="lMA-DY-h4e" firstAttribute="leading" secondItem="req-Wx-bbv" secondAttribute="leading" id="kfh-Qj-xX1"/>
+                            <constraint firstItem="R9z-oN-v7P" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="req-Wx-bbv" secondAttribute="trailing" symbolic="YES" id="lDW-HQ-uW3"/>
+                            <constraint firstItem="A1T-Jy-CKS" firstAttribute="leading" secondItem="R9z-oN-v7P" secondAttribute="leading" constant="20" id="lGL-SO-3iI"/>
+                            <constraint firstItem="lMA-DY-h4e" firstAttribute="top" secondItem="req-Wx-bbv" secondAttribute="bottom" constant="50" id="muS-Gs-p4h"/>
+                            <constraint firstItem="633-RL-pXc" firstAttribute="top" secondItem="A1T-Jy-CKS" secondAttribute="bottom" constant="36" id="n9H-At-UM7"/>
+                            <constraint firstItem="R9z-oN-v7P" firstAttribute="trailing" secondItem="633-RL-pXc" secondAttribute="trailing" constant="20" id="rc2-ej-mMJ"/>
+                            <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="lMA-DY-h4e" secondAttribute="trailing" constant="20" symbolic="YES" id="w7f-NH-B4N"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="R9z-oN-v7P"/>
+                    </view>
+                    <connections>
+                        <outlet property="defaultValueTextField" destination="ALp-dn-HKw" id="nwp-P9-uZa"/>
+                        <outlet property="environmentSelector" destination="nF9-Ko-djJ" id="omq-eN-jjF"/>
+                        <outlet property="mixpanelConnectionStatusLabel" destination="lMA-DY-h4e" id="fnh-c0-Trf"/>
+                        <outlet property="tweakNameTextField" destination="633-RL-pXc" id="BSp-X5-Zwy"/>
+                        <outlet property="tweakTypeSelector" destination="ymo-fe-F7b" id="wyw-3P-51K"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="137.68115942028987" y="138.61607142857142"/>
+        </scene>
+    </scenes>
+</document>
